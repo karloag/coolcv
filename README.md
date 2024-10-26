@@ -1,1 +1,1 @@
-Pretty cool CV web page, quickly add new Companies and Responsabilities as objects in the "experienceData" array, when needed. Page will show a linebreak automatically, separtaing each job. 
+Pretty cool CV web page, quickly add new Companies and Responsabilities as objects in the "experienceData" array to complete your employment history. The page will separate each job automatically using a linebreak.  
